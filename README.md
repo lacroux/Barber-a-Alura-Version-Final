@@ -1,5 +1,8 @@
 <h1 align="center">Barbería Alura</h1>
 
+![boton 1](banner/banner.jpg) 
+
+
 - Version Final
 
 💈 Barbería Alura
@@ -74,10 +77,6 @@ Mobile First (Ajustes): En pantallas pequeñas, el menú de navegación se vuelv
 
 👤 Autor
 Proyecto realizado siguiendo las mejores prácticas de Alura Latam y Oracle Next Education.
-
-![boton 2](imagenes/logo.png) 
-
-<img width="674" height="674" alt="image" src="https://github.com/user-attachments/assets/96c5eeed-1c84-467c-bbee-ff564aa9daea" />
 
 
 ![boton 1](banner/banner.jpg) 
