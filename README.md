@@ -1,6 +1,7 @@
 <h1 align="center">Barbería Alura</h1>
 
-                        ![boton 1](banner/banner.jpg) 
+
+                  <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/5f89c839-2b48-4bb1-9fe5-19e42d4a2aae" />
 
 
 💈 Barbería Alura
