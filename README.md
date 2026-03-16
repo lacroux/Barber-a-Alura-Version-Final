@@ -1,8 +1,7 @@
 <h1 align="center">Barbería Alura</h1>
 
 
-                  <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/5f89c839-2b48-4bb1-9fe5-19e42d4a2aae" />
-
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/5d84854e-59eb-4917-85b5-ba3eb8e29332" />
 
 💈 Barbería Alura
 Bienvenido al repositorio oficial de la Barbería Alura, un sitio web moderno y responsivo diseñado para ofrecer una experiencia premium tanto en escritorio como en dispositivos móviles.
