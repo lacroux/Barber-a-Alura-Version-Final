@@ -1,9 +1,7 @@
 <h1 align="center">Barbería Alura</h1>
 
-![boton 1](banner/banner.jpg) 
+                                                                ![boton 1](banner/banner.jpg) 
 
-
-- Version Final
 
 💈 Barbería Alura
 Bienvenido al repositorio oficial de la Barbería Alura, un sitio web moderno y responsivo diseñado para ofrecer una experiencia premium tanto en escritorio como en dispositivos móviles.
