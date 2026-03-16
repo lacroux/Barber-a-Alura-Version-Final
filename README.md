@@ -1,6 +1,6 @@
 <h1 align="center">Barbería Alura</h1>
 
-                                                                ![boton 1](banner/banner.jpg) 
+                        ![boton 1](banner/banner.jpg) 
 
 
 💈 Barbería Alura
